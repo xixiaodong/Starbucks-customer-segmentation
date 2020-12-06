@@ -1,5 +1,5 @@
 # Starbucks-customer-segmentation
-Udacity data science nanodegree capstone project
+Medium blog post linke is [here](https://medium.com/p/8a81fea1f5c2/edit).
 
 ## Data overview
 
