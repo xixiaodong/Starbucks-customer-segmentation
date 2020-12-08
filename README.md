@@ -1,5 +1,6 @@
 # Starbucks-customer-segmentation
 Medium blog post linke is [here](https://medium.com/p/8a81fea1f5c2/edit).
+All work are stored in Starbucks_Capstone_notebook.ipynb
 
 ## Data overview
 
